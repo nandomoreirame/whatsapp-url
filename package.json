@@ -1,6 +1,6 @@
 {
   "name": "whatsapp-url",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create a Whatsapp url",
   "main": "index.js",
   "author": "Fernando Moreira <nandomoreira.me@gmail.com> (https://nandomoreira.me)",
