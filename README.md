@@ -49,6 +49,12 @@ Example: `Hello%20World,%20its%20me%20Mario!`
 Type: `string`<br/>
 Example: `55984401163`
 
+---
+
+### Inspired by
+
+[bukinoshita/share-twitter](https://github.com/bukinoshita/share-twitter) - Thank you!
+
 ## License
 
 MIT © [Fernando Moreira](https://nandomoreira.me)
