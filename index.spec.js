@@ -32,15 +32,15 @@ describe('whatsappUrl()', () => {
   })
 
   describe('return https://web.whatsapp.com/send?phone=5541984401163', () => {
-    it('should return WhatsApp Web url when the phone value is present and openWeb value is true', () => {
-      const w = whatsappUrl({ phone, text: '', openWeb: true })
+    it('should return WhatsApp Web url when the phone value is present and isWeb value is true', () => {
+      const w = whatsappUrl({ phone, text: '', isWeb: true })
       strict.equal(w, 'https://web.whatsapp.com/send?phone=5541984401163')
     })
   })
 
   describe('return https://web.whatsapp.com/send?text=Hello%20World,%20its%20me%20Mario!&phone=5541984401163', () => {
-    it('should return WhatsApp Web url when the phone and text values is present and openWeb value is true', () => {
-      const w = whatsappUrl({ phone, text, openWeb: true })
+    it('should return WhatsApp Web url when the phone and text values is present and isWeb value is true', () => {
+      const w = whatsappUrl({ phone, text, isWeb: true })
       strict.equal(w, 'https://web.whatsapp.com/send?text=Hello%20World,%20its%20me%20Mario!&phone=5541984401163')
     })
   })

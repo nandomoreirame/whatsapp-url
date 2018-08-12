@@ -22,7 +22,7 @@ console.log(whatsappUrl({
 console.log(whatsappUrl({
   url: '5541984401163',
   text: 'Hello World, its me Luigi!',
-  openWeb: true
+  isWeb: true
 }))
 // https://web.whatsapp.com/send?text=Hello%20World,%20its%20me%20Luigi!&phone=5541984401163
 ```

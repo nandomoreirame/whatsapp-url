@@ -9,7 +9,8 @@
     data () {
       return {
         phone: '55984401163',
-        text: 'Hello World, its me Mario!'
+        text: 'Hello World, its me Mario!',
+        isWeb: true
       }
     },
     methors: {
