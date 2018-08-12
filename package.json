@@ -21,6 +21,9 @@
     "social",
     "media"
   ],
+  "engines": {
+    "node": ">=9"
+  },
   "files": [
     "index.js"
   ],
