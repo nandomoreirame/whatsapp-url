@@ -1,4 +1,4 @@
-# WhatsApp url
+# WhatsApp url [![Build Status](https://travis-ci.org/nandomoreirame/whatsapp-url.svg?branch=master)](https://travis-ci.org/nandomoreirame/whatsapp-url)
 
 > Create a Whatsapp url
 
