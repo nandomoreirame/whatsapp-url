@@ -14,13 +14,13 @@ $ yarn add whatsapp-url
 const whatsappUrl = require('whatsapp-url')
 
 console.log(whatsappUrl({
-  url: '5541984401163',
+  phone: '5541984401163',
   text: 'Hello World, its me Mario!'
 }))
 // https://api.whatsapp.com/send?text=Hello%20World,%20its%20me%20Mario!&phone=5541984401163
 
 console.log(whatsappUrl({
-  url: '5541984401163',
+  phone: '5541984401163',
   text: 'Hello World, its me Luigi!',
   isWeb: true
 }))
