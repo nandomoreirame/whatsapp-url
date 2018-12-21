@@ -33,6 +33,10 @@ _When add the `url` to a `<a/>` tag it should work like [this](https://api.whats
 
 Check the [examples](/examples)
 
+## Demo
+
+Look at a demonstration of how it works [here](https://whatsapp-url.netlify.com).
+
 ## API
 
 ### whatsappUrl([options])
