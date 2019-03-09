@@ -72,7 +72,7 @@ Contributing
 
 ## History
 
-See [Releases](https://github.com/nandomoreirame/readme-boilerplate/releases) for detailed changelog.
+See [Releases](../../releases/latest) for detailed changelog.
 
 ## Author
 
